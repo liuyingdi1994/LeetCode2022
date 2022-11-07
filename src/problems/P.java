@@ -1,0 +1,17 @@
+package problems;
+
+
+public class P {
+
+    static class Solution {
+        public int method(int num) {
+            return -1;
+        }
+    }
+
+    public static void main(String[] args) {
+        Solution solve = new Solution();
+        System.out.println(solve.method(1));
+    }
+}
+
