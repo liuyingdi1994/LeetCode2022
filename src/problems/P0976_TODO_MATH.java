@@ -1,10 +1,10 @@
 package problems;
 
 
-public class P {
+public class P0976_TODO_MATH {
 
     static class Solution {
-        public int method(int num) {
+        public int largestPerimeter(int[] nums) {
             return -1;
         }
     }
