@@ -4,7 +4,7 @@ package problems;
 public class P {
 
     static class Solution {
-        public int method(int num) {
+        public int method() {
             return -1;
         }
     }
