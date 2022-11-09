@@ -5,7 +5,7 @@ public class P {
 
     static class Solution {
         public int method() {
-            return 0;
+            return 1;
         }
     }
 
